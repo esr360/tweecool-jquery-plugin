@@ -1,5 +1,5 @@
 /*Name : TweeCool
- *version: 1.7 
+ *version: 1.0.0
  *Description: Get the latest tweets from twitter.
  *Website: www.tweecool.com
  *Licence: No licence, feel free to do whatever you want.
