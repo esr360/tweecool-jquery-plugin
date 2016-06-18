@@ -25,7 +25,6 @@
                 action_favorite_icon: '&#9733;',
                 profile_img_url: 'profile', //Values: profile, tweet 
                 show_retweeted_text: false //This will show the original tweet in order to avoid any truncated text, and also the "RT @tweecool:" is removed which helps with 140 character limit
-
             }
 
             var options = $.extend(defaults, options);
